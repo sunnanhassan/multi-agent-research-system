@@ -1,0 +1,69 @@
+# Core LangChain Ecosystem
+
+langchain
+langchain-core
+langchain-community
+
+# Multi-Agent Orchestration
+
+langgraph
+
+# Google Gemini
+
+langchain-google-genai
+google-genai
+
+# Search Tool
+
+tavily-python
+
+# Web Scraping
+
+beautifulsoup4
+requests
+lxml
+html5lib
+
+# Environment Variables
+
+python-dotenv
+
+# Validation & Structured Output
+
+pydantic
+
+# Async Support
+
+aiohttp
+httpx
+
+# Tokenization
+
+tiktoken
+
+# Logging / Terminal UI
+
+rich
+
+# Data Processing
+
+pandas
+numpy
+
+# Retries & Robustness
+
+tenacity
+
+# Optional Development Tools
+
+ipython
+jupyter
+
+# Optional API Layer
+
+fastapi
+uvicorn
+
+# Optional LangSmith Tracing
+
+langsmith
